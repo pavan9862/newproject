@@ -2,7 +2,7 @@ from django.views.generic import (TemplateView)
 
 
 
-#this is new comment
+#this is nsdfffffffffasdfasdew cdded to the views.py omment
 
 
 class index(TemplateView):
